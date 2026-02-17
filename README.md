@@ -1,9 +1,6 @@
 HIGH-THROUGHPUT DISTRIBUTED FAN-OUT ENGINE
 Java Backend Engineering Challenge Submission
 
-Author: Aman Raj
-Language: Java 25
-Build Tool: Maven
 
 
 ------------------------------------------------------------
@@ -275,3 +272,4 @@ Testing               -> Unit + Integration tests included
 ------------------------------------------------------------
 END OF DOCUMENT
 ------------------------------------------------------------
+
