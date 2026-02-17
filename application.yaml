@@ -1,0 +1,19 @@
+file:
+  path: sample-data/input.jsonl
+
+buffer:
+  capacity: 10000
+
+sinks:
+  rest:
+    enabled: true
+    rateLimit: 50
+  grpc:
+    enabled: true
+    rateLimit: 100
+  mq:
+    enabled: true
+    rateLimit: 200
+  db:
+    enabled: true
+    rateLimit: 500

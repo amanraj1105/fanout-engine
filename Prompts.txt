@@ -1,0 +1,13 @@
+Design prompts:
+- Design a high-throughput fan-out engine in Java using Virtual Threads.
+- Implement rate limiting using Token Bucket.
+- Implement retry logic with max 3 retries and DLQ.
+- Design config-driven sink binding architecture.
+
+Testing prompts:
+- Generate unit tests for transformers.
+- Generate integration test for orchestrator without Mockito.
+
+Architecture prompts:
+- Explain zero data loss guarantee.
+- Explain backpressure implementation using BlockingQueue.
